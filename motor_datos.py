@@ -5,6 +5,7 @@ from groq import AsyncGroq
 import json
 import logging
 from datetime import datetime, timedelta
+import streamlit as st
 
 # --- CONFIGURACIÓN DEL ENTORNO ---
 # Desactivar logs molestos de yfinance para mantener limpia la consola
