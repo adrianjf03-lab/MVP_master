@@ -43,3 +43,9 @@ Entorno de *microlearning* para enseñar conceptos financieros desde cero.
 * **Ingesta de Datos:** `NewsAPI` (Noticias), `yfinance` (Cotizaciones en vivo)
 * **Análisis Cuantitativo:** `pandas`, `numpy`, `scipy`
 * **Visualización:** `plotly`
+
+---
+
+## ⚙️ Enlace
+* **URL:** (https://mvpmaster-firstfolio.streamlit.app/)
+  
